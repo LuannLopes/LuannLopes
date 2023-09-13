@@ -4,6 +4,6 @@
 
 ## About me:
 
-I'm a Front-end Developer!
+I'm a front-end developer passionate about technology!
 
 A passionate and curious programmer who immersed himself in the world of technology from the first contact.

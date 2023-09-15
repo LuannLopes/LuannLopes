@@ -1,10 +1,8 @@
 # Hi, I'm Luan!
 
-I'm a front-end developer passionate about technology!
-
 ## About me:
 
-
+I'm a front-end developer passionate about technology!
 
 A passionate programmer who immersed himself in the world of technology from the first contact.
 

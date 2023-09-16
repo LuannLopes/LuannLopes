@@ -1,4 +1,4 @@
-# Hi, I'm Luan!
+# Hi, I'm Luan Lopes!
 
 ## About me:
 

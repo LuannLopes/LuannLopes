@@ -4,7 +4,7 @@
 
 I'm a front-end developer passionate about technology!
 
-A passionate programmer who immersed himself in the world of technology from the first contact.
+passionate for code, new technologies and big challenges.
 
 ## Connect with me:
 

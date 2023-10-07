@@ -1,10 +1,5 @@
 # Hi, I'm Luan Lopes!
-
-## About me:
-
 I'm a front-end developer passionate about technology!
-
-Passionate for code, new technologies and big challenges.
 
 ## Connect with me:
 

@@ -3,7 +3,7 @@ I'm a front-end developer passionate about technology!
 
 ## Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-lopesc/)](https://www.linkedin.com/in/luan-lopesc/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanc-lopes/)](https://www.linkedin.com/in/luanc-lopes/)
 <br />
 
 ## Languages and Tools:

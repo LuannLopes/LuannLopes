@@ -11,8 +11,8 @@ I have experiencie with the following technologies:
 - Styled Components;
 - Node.js
 - Git;
-- HTML;
-- CSS;
+- HTML5;
+- CSS3;
 
 I love challenges and I want to grow professionally every single day.
 

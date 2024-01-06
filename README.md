@@ -5,7 +5,7 @@
 ## About
 I am a React Developer, passionate about technology, solving problems and continuous learning.
 
-I have experiencie with the following technologies:
+I have experience with the following technologies:
 - React;
 - JavaScript;
 - Styled Components;
@@ -13,8 +13,6 @@ I have experiencie with the following technologies:
 - Git;
 - HTML5;
 - CSS3;
-
-I love challenges and I want to grow professionally every single day.
 
 ### Contact:
 <div> 

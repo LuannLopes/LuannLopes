@@ -3,13 +3,14 @@
 👨🏻‍💻 Front-End React Developer
 
 ## About
-I am a React Developer, passionate about technology, solving problems and continuous learning.
+I am a React Developer, passionate about technology, solving problems, and continuous learning.
 
 I have experience with the following technologies:
 - React;
 - JavaScript;
 - Styled Components;
-- Node.js
+- Axios;
+- Node.js;
 - Git;
 - HTML5;
 - CSS3;

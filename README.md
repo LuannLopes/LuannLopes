@@ -9,7 +9,8 @@ I have experience with the following technologies:
 - React;
 - JavaScript;
 - Styled Components;
-- Axios;
+- ChakraUI;
+- Atomic Design;
 - Node.js;
 - Git;
 - HTML5;

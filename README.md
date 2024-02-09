@@ -9,11 +9,10 @@ I have experience with the following technologies:
 - React;
 - JavaScript;
 - Styled Components, ChakraUI;
-- Atomic Design;
-- Node.js;
 - Git;
 - HTML5;
 - CSS3;
+- Node.js;
 
 ### Contact:
 <div> 

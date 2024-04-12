@@ -7,7 +7,7 @@ I am a React Developer, passionate about technology, solving problems, and conti
 
 I have experience with the following technologies:
 - React;
-- JavaScript/TypeScript;
+- JavaScript, TypeScript;
 - Styled Components;
 - Node;
 - Git;
